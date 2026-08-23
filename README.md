@@ -47,7 +47,7 @@ The AIC, BIC, RMSE and MAE are collectively used to find the best forecasting mo
 
 ## Results
 
-![Results](media/image1.png)
+<img width="345" height="202" alt="image1" src="https://github.com/user-attachments/assets/d33c19f8-b589-4411-809a-b257a04b5a9b" />
 
 The ARIMA (2,0,1) performed best among the candidate models, achieving the lowest AIC, BIC, RMSE and MAE. Although the PACF suggested an AR order of two, the ACF did not provide a clear indication of the appropriate MA order, highlighting the value of comparing multiple candidate specifications.
 
