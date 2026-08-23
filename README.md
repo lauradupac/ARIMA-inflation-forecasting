@@ -1,5 +1,5 @@
 # ARIMA-inflation-forecasting
-ARIMA model selection for UK inflation forecasting 1989-2022
+This project features fitting an ARIMA model for forecasting UK inflation over years 1989-2022 out of 5 candidates, running diagnostics on wellness of fit, and discussing the consequences for implementing policy based on results. 
 
 # README
 
