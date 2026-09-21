@@ -15,7 +15,7 @@ The report assesses the suitability of the ARIMA (p,d,q) model for forecasting U
 
 The data is publicly available on Kaggle titled 'UK Inflation Data 1989-2022' with link: <https://www.kaggle.com/datasets/scarfsman/uk-inflation-data-1989-2022>. 
 
-Licensing: The MIT License applies to the original code and materials in this repository. The underlying UK inflation dataset is 3rd party material licensed under the Open Government License (OGL) 3.0 and contains public sector information licensed under the Open Government License 3.0.
+Licensing: The MIT License applies to the original code and materials in this repository. The underlying UK inflation dataset is third party material licensed under the Open Government License (OGL) 3.0 and contains public sector information licensed under the Open Government License 3.0.
 
 It covers 415 observations of monthly inflation from 1989 to 2022 by looking at the CPIH which builds on the CPI index by additionally accounting for costs relating to housing which include rent and mortgage payments — excluding housing costs.
 
