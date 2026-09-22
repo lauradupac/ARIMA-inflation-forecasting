@@ -65,7 +65,7 @@ The ARIMA (2,0,1) performed best among the candidate models, achieving the lowes
 
 | File | Description |
 |---|---|
-| `README_inflation.md` | Project overview, setup instructions, methodology and key findings |
+| `README.md` | Project overview, setup instructions, methodology and key findings |
 | `Time_series_report.pdf` | Full research report with literature review, methodology, results and discussion |
 | `Inflation_ARIMA.ipynb` | ARIMA model implementation and selection with forecasts |
 | `requirements_inf.txt` | Required Python packages |
